@@ -35,20 +35,30 @@ This project provides:
 - Update .env with DB and mail credentials:
 
     DB_DATABASE=(Your_database_name)
+
     DB_USERNAME=(username)
+
     DB_PASSWORD=
 
     MAIL_MAILER=smtp
+
     MAIL_HOST=smtp.yourmail.com
+
     MAIL_PORT=587
+
     MAIL_USERNAME=your_email@example.com
+
     MAIL_PASSWORD=your_password
+
     MAIL_ENCRYPTION=tls
+
     MAIL_FROM_ADDRESS=your_email@example.com
+    
     MAIL_FROM_NAME="Laravel App"
 
 ## Development Commands
 - php artisan migrate
+- php artisan key:generate
 - php artisan optimize:clear
 
 ## Start the server
