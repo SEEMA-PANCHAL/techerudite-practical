@@ -25,9 +25,7 @@ This project provides:
    
    cd techerudite-practical
 
-   enter code .
-
-   open vs code 
+   **enter** code .
 
 ## Install dependencies
 - composer install
