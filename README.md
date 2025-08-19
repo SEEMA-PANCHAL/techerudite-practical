@@ -54,10 +54,17 @@ App available at 👉 http://127.0.0.1:8000
 🔑 Features
 
 Customer Registration → Assigns customer role.
+
 Admin Registration → Assigns admin role.
+
 Email Verification → User receives verification code after registering.
+
 Verification Page → Enter code to activate account.
+
 Admin Login
+
 Only verified admins can log in.
+
 If customer tries → "You are not allowed to login from here".
+
 If unverified admin tries → blocked.
