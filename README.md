@@ -20,7 +20,8 @@ This project provides:
 ## ⚙️ Installation Steps
 
 1. **Clone the repository**
-   https://github.com/SEEMA-PANCHAL/techerudite-practical.git
+
+   git clone https://github.com/SEEMA-PANCHAL/techerudite-practical.git
    
    cd techerudite-practical
 
